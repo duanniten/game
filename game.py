@@ -38,3 +38,6 @@ def guess_game(right_guess: int):
             else: 
                 print('Just right!')
                 return
+
+if __name__ == '__main__':
+    main()
